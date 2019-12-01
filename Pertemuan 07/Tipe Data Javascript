@@ -1,0 +1,11 @@
+========= NILAI DAN TIPE DATA JAVASCRIPT ============
+
+Bit adalah satuan terkecil dari data yang ada di dalam komputer kita nilainya hanya 0 dan 1 
+
+didalam javasript ada 6 tipe data yang bisa kita gunakan : 
+1. number 
+2. string 
+3. boolean
+4. object 
+5. function
+6. undefined

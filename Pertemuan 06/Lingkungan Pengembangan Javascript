@@ -1,0 +1,9 @@
+============ LINGKUNGAN PENGEMBANGAN JAVASCRIPT ===========
+
+Development Environment adalah sebuah tools dimana nantinya kita menuliskan program kita
+
+ada dua cara agar kita dapat berinteraksi dengan intrepreter js : 
+
+1. menggunakan console 
+2. menggunakan script js di halaman html 
+
