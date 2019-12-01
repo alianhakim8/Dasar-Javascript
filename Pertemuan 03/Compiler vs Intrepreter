@@ -1,0 +1,43 @@
+============ Compiler dan Intrepreter ===========
+
+menerjemahkan source code ke dalam bahasa mesin
+
+kelebihan compiler 
+1. siap untuk dijalankan
+2. lebih cepat 
+3. sorce code tidak terlihat
+
+kekurangan compiler 
+1. tidak lintas platform
+2. tidak fleksibel 
+3. langkah tambahan
+
+kelebihan intrepreter
+1. lintas platform
+2. fleksibel 
+3. mudah untuk diuji
+
+kekurangan intrepreter
+1. butuh intrepreter
+2. lebih lambat 
+3. source code mudah diakses 
+
+ada juga teknik hybrid = menggabungkan kelebihan compiler dan intrepreter
+
+contoh bahasa 
+compiler : 
+c , c++ , objective-c 
+
+intrepreter : 
+javascript , php
+
+hybrid : 
+java , vb.net , python
+
+bagaimana memilih bahasa yang tepat? 
+
+Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.
+
+– Linus Torvalds (creator of Linux)
+
+

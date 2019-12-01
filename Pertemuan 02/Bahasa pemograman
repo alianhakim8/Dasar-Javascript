@@ -1,0 +1,22 @@
+================== Bahasa pemograman ======================
+
+ada banyak bahasa pemograman 
+tetapi yang banyak digunakan tidak sebanyak itu hanya bebeberapa 
+
+bahasa mesin itu memang untuk mesin bukan untuk manusia 
+
+jadi bahasa pemograman bahasa sebagai jembatan bahasa manusia dengan bahasa mesin
+kenapa bahasanya banyak ?
+ya seperti bahasa manusia aja banyak kan seiring perkembangan teknologi
+
+bahasa assembly = bahasa tingkat rendah 
+bahasa tingkat tinggi = semakin mudah ditulis dan dibaca manusia tetapi semakin lambat
+
+untuk mulai menulis program ada tiga hal yang harus diperhatikan 
+1. bagaimana menulis source code 
+2. bagaimana source code dikonversi ke bahasa mesin 
+3. bagaimana mengeksekusi source code
+
+1. Menulis source code 
+bisa mulai ditulis dengan teks sederhana ( plain text ) bisa menggunakan text editor ex : notepad dll
+ 
