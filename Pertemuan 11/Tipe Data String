@@ -1,0 +1,44 @@
+================= TIPE DATA PADA JAVASCRIPT : STRING =========
+
+untuk menuliskan string pada js yang perlu kita lakukan hanya membungkus menggunakan tanda '' / ""
+
+"alian" atau 'alian'
+
+kalau menggunakan "" diawali " diakhiri "
+
+kapan kita menggunakan "" ? ini bebas aja
+
+
+ESCAPE CHARACTER
+
+\"
+\'
+
+"\"Gerakan Pungut Sampah\" dilaksanakan pada hari jum'at"
+						atau
+'"Gerakan pungut sampah" dilaksanakan pada hari jum\'at'
+
+escape character 					hasil
+\0 									null
+\'									'
+\"									"
+\\									\
+\n 									new line/baris baru
+\t 									tab
+\b 									backspaces
+\uXXXX								unicode
+
+unicode untuk menampilkan simbol 
+contoh 
+\u00A9 untuk menampilkan simbol copyright 
+
+
+Konkatenasi (+)
+
+membandingkan string 
+"alian hakim" == "alian hakim"
+			true
+
+fungsi string pada js 
+.length = untuk menghitung panjang
+"alian hakim".length

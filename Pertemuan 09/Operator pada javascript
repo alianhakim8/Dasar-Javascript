@@ -1,0 +1,56 @@
+================== OPERATOR PADA JAVASCRIPT =============
+
+Operator dalam javascript adalah sebuah simbol yang digunakan untuk melakukan operasi
+
+ada banyak jenis operator pada javascript diantaranya
+1. aritmatika = binary
+2. penugasan = binary
+3. perbandingan = binary
+4. logika = binary
+5. string = binary
+6. kondisional = ternary
+7. typeof = unary
+
+// operator binary adalah sebuah operator yang membutuhkan 2 operand
+
+	operand1 operator operand2
+
+// operator unary adalah operator yang membutuhkan 1 operand
+
+	operator operand
+		atau
+	operand operator
+
+// operator ternary adalah operator yang membutuhkan 3 operand
+
+
+1. OPERATOR MATEMATIKA 
++ , - , * , / , &
+
+Urutan operasi matematika 
+	KuKaBaTaKu
+	kurung , Kali , Bagi , Tambah , Kurang
+	() * / + -
+
+2. OPERATOR PENUGASAN 
+yang sering digunakan adalah tanda "="
+
++= // x += y sama saja dengan x = x + y
+-= // x -= y sama saja dengan x = x - y 
+*= // x *= y sama saja dengan x = x * y 
+/= // x /= y sama saja dengan x = x / y
+
+3. OPERATOR PERBANDINGAN / COMPARISON 
+akan menghasilkan nilai boolean 
+
+OPERATOR PERBANDINGAN 				KETERANGAN	
+== 								sama dengan
+!= 								tidak sama dengan
+===								strict sama dengan 
+!==								strict tidak sama dengan 
+> 								lebih besar dari 
+< 								lebih kecil dari 
+>= 								lebih besar sama dengan
+<=								lebih kecil sama dengan
+
+*sama dengan yang 3 "===" tidak hanya membandingkan nilai tetapi juga membandingkan tipe data. 

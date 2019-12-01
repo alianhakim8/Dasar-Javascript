@@ -1,0 +1,48 @@
+=============== OPERATOR LOGIKA =============
+
+OPERATOR LOGIKA 				KETERANGAN
+	
+	&&								AND 
+
+	|| 								OR
+
+	!								NOT
+
+kalau menggunakan AND 
+dua2 nya harus true untuk menghasilkan nilai true
+
+kalau menggunakan OR 
+asal salah satunya true maka hasilnya pasti true
+
+kalau menggunakan NOT
+membalikkan true menjadi false dan sebaliknya 
+
+
+
+OPERATOR STRING 
+ menggunakan tanda "+"
+
+ dalam javascript tanda "+" memiliki dua fungsi
+
+ jika operandnya adalah angka 
+ maka dia akan menjadi operator aritmatika
+
+ jika operandnya adalah string atau tulisan
+ maka dia akan berubah menjadi operator penggabung string
+
+ jika salah satu string akan berubah menjadi operator penggabung string
+
+
+
+ OPERATOR TYPEOF
+ digunakan untuk mengetahui tipe data apa dari nilai yang kita masukkan ke dalamnnya
+
+
+ OPERATOR KONDISIONAL
+
+digunakan untuk melakukan pengecekan pada suatu kondisi
+
+(kondisi) ? benar : salah
+
+contoh 
+( x % 2 == 0) "genap" : "ganjil"
