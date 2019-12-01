@@ -1,0 +1,24 @@
+==================== TIPE DATA PADA JAVASCRIPT : ANGKA ===================
+
+Ada beberapa jenis angka yang dapat disimpan di javascript : 
+
+1. Angka tanpa desimal (integer)
+contoh : 10, 1500, 123456 
+akurat sampai 15 digit
+
+2. Angka dengan desimal 
+contoh : 3.14, 0.5,....
+koma di js digantikan dengan "."
+
+3. Eksponen
+
+4. Bilangan Negatif
+contoh : -25,....
+
+jangan pernah mengawali dengan angka 0
+dengan kita menuliskan angka 0 akan dianggap bilangan oktal basis 8 
+
+Didalam js ada angka spesial
+1. Infinity 
+2. - infinity
+3. NaN ( Not a Number )
