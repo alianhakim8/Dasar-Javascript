@@ -1,0 +1,21 @@
+=========== TIPE DATA BOOLEAN =========
+Apa itu boolean ? 
+
+boolean adalah sebuah tipe data yang digunakan merepresentasikan logika true atau false 
+
+biasanya digunakan pada statement pengkondisian, untuk menentukan aksi yang berbeda dan mengatur alur kendali program
+
+boolean memiliki dua buah nilai :
+1. true 
+2. false
+
+truthy 			|			falsy
+true						false
+non-zero number 			0
+"string"					""
+object 						undefined
+arrays						null
+functions					NaN
+
+
+ 

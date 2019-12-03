@@ -1,0 +1,47 @@
+============= variabel pada javascript ==============
+definisi 
+
+variabel adalah sebuah tempat yang memiliki nama yang digunakan untuk menyimpan suatu nilai
+
+1. deklarasi 
+
+mendaftarkan variabel kedalam lingkup yang sesuai
+
+2. inisialisasi
+
+menyediakan memori untuk variabel 
+
+3. assignment
+
+menetapkan nilai yang spesifik ke dalam variabel 
+
+contoh 
+
+var x; // deklarasi & inisialisasi
+x = 20; // assignment
+
+deklarasi variabel : 
+
+var 
+let 
+const
+
+aturan menulis nama variabel 
+
+1. tidak boleh pake spasi
+2. boleh mengandung angka tapi tidak boleh diawali dengan angka contoh : 1angka 
+3. boleh memisahkan kata dengan "_" 
+4. boleh menggunakan camel case contoh (namaVariabel)
+
+ada beberapa kata yang tidak boleh digunakan sebagai nama variabel kata tersebut dinamakan dengan kata 
+keyword & reserved word
+
+dalam pembuatan variabel kita bisa menggunakan shorthand yaitu sintax untuk mempersingkat nama variabel 
+contoh :
+var nama = "Alian",
+	umur = 31,
+	lulus = true;
+
+
+didalam variabel ada yang disebut dengan variabel scope ( lingkup variabel)
+
