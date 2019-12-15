@@ -1,0 +1,16 @@
+============== PENGULANGAN WHILE ===============
+
+while ( kondisi ){
+	aksi
+}
+
+
+cara menghentikan looping 
+1. dihentikan oleh user
+2. dihentikan oleh program
+	
+	nilai awal 
+	while ( kondisi terminasi ) {
+		aksi
+		increment / decrement
+	}

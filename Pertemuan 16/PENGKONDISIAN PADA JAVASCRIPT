@@ -1,0 +1,7 @@
+PENGKONDISIAN PADA JAVASCRIPT
+
+if ( kondisi ){
+	// aksi
+}else {
+	aksi
+}
