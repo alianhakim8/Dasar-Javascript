@@ -1,0 +1,26 @@
+================ SWITCH PADA JAVASCRIPT ============
+
+switch ini penggunaannya mirip if dan else
+
+pola switch seperti ini :
+
+switch ( ekspresi ){
+	case "niai 1":
+	aksi 1
+	[break;]
+
+	case "nilai 2":
+	aksi2 
+	[break;]
+
+	case 'nilai 3':
+	[break;]
+
+	default:
+	aksi default;
+	[break;]
+}
+
+
+untuk mengubah menjadi angka / integer menggunakan parseInt
+var angka = parseInt(prompt('masukkan angka'));
