@@ -1,0 +1,7 @@
+Array = tipe data yang digunakan untuk mendeskripsikan kumpulan elemen ( nilai atau variabel ) yang tiap tiap elemennya memiliki index.
+
+atau
+
+Array = sebuah varibel , tapi varibelnya lebih sakti karena bisa menampung lebih dari satu nilai.
+
+
